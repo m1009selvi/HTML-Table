@@ -1,0 +1,9 @@
+*{margin:0px; padding:0px; }
+
+
+.table table {width:59%;height:200px;border:2px solid black;border-collapse:collapse;
+position:absolute;left:25%;top:25%;background:#C2E2F6;text-align:center;position:fixed;}
+
+tr,th,td {border:2px solid black;padding:10px;}
+
+th {font-size:20px; background-color:#555953;}
